@@ -27,3 +27,10 @@ The calculated simple interest for the given inputs.
 - `CODE_OF_CONDUCT` — Community behavior guidelines
 - `CONTRIBUTING.md` — Contribution guidelines
 - `simple-interest.sh` — Simple interest calculator script 
+  
+## Learning Outcomes
+
+- Create and manage Git branches.
+- Commit changes and revert commits.
+- Merge changes between branches.
+- Use GitHub pull requests and the REST API. 
