@@ -3,7 +3,6 @@
 
 # Calculate simple interest
 # Formula: SI = (Principal * Rate * Time) / 100
-# Additional information: This script uses whole-number inputs.
 
 echo "Enter the principal amount:"
 read p
